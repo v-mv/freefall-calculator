@@ -24,21 +24,23 @@ On Earth, the acceleration due to gravity is approximately 9.81 m/s². This mean
 
 The program uses the following equations of motion for an object in free fall:
 
-1. Distance fallen: $$d = \frac{1}{2} g t^2$$
-   - This equation is derived from the general equation for displacement under constant acceleration: d = v₀t + (1/2)at², where initial velocity v₀ = 0.
-
-2. Final velocity: v = g * t
-   - This comes from the equation v = v₀ + at, where initial velocity v₀ = 0.
-
+Distance fallen:
+$$d = \frac{1}{2} g t^2$$
+This equation is derived from the general equation for displacement under constant acceleration:
+$$d = v_0t + \frac{1}{2}at^2$$
+where initial velocity $v_0 = 0$.
+Final velocity:
+$$v = gt$$
+This comes from the equation $v = v_0 + at$, where initial velocity $v_0 = 0$.
 Where:
-- d is the distance fallen (in meters)
-- v is the final velocity (in meters per second)
-- g is the acceleration due to gravity (approximately 9.81 m/s² on Earth)
-- t is the time of fall (in seconds)
+$d$ is the distance fallen (in meters)
+$v$ is the final velocity (in meters per second)
+$g$ is the acceleration due to gravity (approximately 9.81 m/s² on Earth)
+$t$ is the time of fall (in seconds)
 
 It's important to note that these equations are idealized and don't account for factors like:
 - Air resistance, which becomes significant for objects falling long distances or at high speeds
-- Variations in g due to altitude or local gravitational anomalies
+- Variations in $g$ due to altitude or local gravitational anomalies
 - The curvature of the Earth for very long falls
 
 In real-world scenarios, objects eventually reach a terminal velocity when the air resistance equals the gravitational force, causing the acceleration to become zero.
