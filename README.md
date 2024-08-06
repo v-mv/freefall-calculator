@@ -51,22 +51,22 @@ To run this program, you need a C++ compiler installed on your system. If you do
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/free-fall-calculator.git
+   git clone https://github.com/v-mv/freefall-calculator.git
    ```
 2. Navigate to the project directory:
    ```
-   cd free-fall-calculator
+   cd freefall-calculator
    ```
 
 ## Usage
 
 1. Compile the program:
    ```
-   g++ code.cpp -o free_fall_calculator
+   g++ code.cpp -o freefall_calculator
    ```
 2. Run the program:
    ```
-   ./free_fall_calculator
+   ./freefall_calculator
    ```
 3. When prompted, enter the time of fall in seconds.
 4. The program will output the distance fallen and the final velocity.
@@ -81,7 +81,7 @@ Final velocity: 49.05 m/s
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/free-fall-calculator/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/v-mv/freefall-calculator/issues) if you want to contribute.
 
 ## License
 
