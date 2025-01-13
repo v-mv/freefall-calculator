@@ -25,7 +25,7 @@ On Earth, the acceleration due to gravity is approximately 9.81 m/s². This mean
 The program uses the following equations of motion for an object in free fall:
 
 1. Distance fallen: 
-   **$d = \frac{1}{2} g t^2$**
+   **$$d = \frac{1}{2} g t^2$$**
 
 This equation is derived from the general equation for displacement under constant acceleration:
 **$d = v_0t + \frac{1}{2}at^2$**
